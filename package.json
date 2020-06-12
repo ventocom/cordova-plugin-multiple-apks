@@ -1,0 +1,6 @@
+{
+  "name": "cordova-plugin-multiple-apks",
+  "version": "1.0.0",
+  "description": "Split native abis into multiple APKs to improve bundle size.",
+  "author": "David Strauß"
+}
